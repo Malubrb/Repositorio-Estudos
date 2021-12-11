@@ -1,0 +1,21 @@
+Instruções para criar um novo repositório no Git e GitHub + Clonar o repositorio.
+
+1. Criar o repositório no GitHub com ReadMe e informações importantes.
+
+2. Copiar o Link de repositório https.
+
+3. Em uma pasta preparada para receber o clone do  repositório no Desktop, abrir o Bash.
+
+4. Com o comando git clone link_do_repositório, clonar o repositório.
+
+5. Criar pastas e anotações conforme necessidade para Organização e INformações relevantes.
+
+6. Com o comando Status verificar status das informações adicionadas.
+
+7. Com o comando git add . adicionar todas as pastas do Git local
+
+8. Com o comando git commit -m "Comentário das infos adicionadas" atualiza o GitHub com as informações e pastas adicionadas.
+
+9. Dando git status ele vai pedir o push.
+
+10. Com o comando git push origin main ele atualiza o GitHub
